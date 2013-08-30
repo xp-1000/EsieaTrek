@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="4" height="4" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Ascenseur Monter" tilewidth="32" tileheight="32">
+  <image source="../images/levels/asc_mont.png" width="128" height="128"/>
+ </tileset>
+ <layer name="collision" width="4" height="4" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACxNgYGAQwIMJAQC3j9FvQAAAAA==
+  </data>
+ </layer>
+ <layer name="action" width="4" height="4" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgoAwAADZjjXVAAAAA
+  </data>
+ </layer>
+ <layer name="carte" width="4" height="4">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NkYGBgAmJmIGYBYlYgZgNiDijmBGIuIOZBwnxAzA9lAwAleBR6QAAAAA==
+  </data>
+ </layer>
+</map>

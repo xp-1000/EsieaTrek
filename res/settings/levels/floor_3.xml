@@ -1,0 +1,10 @@
+<level map="floor3.tmx" sound="casino.ogg">
+	<transitions>
+		<transition originx="6" originY="1" to="ascenceur_b"
+			remotex="2" remotey="2" direction="down" timing="0" />
+		<transition originx="0" originY="3" to="floor_2"
+			remotex="1" remotey="2" direction="right" timing="0" />
+		<transition originx="0" originY="2" to="floor_4" 
+			remotex="1" remotey="3" direction="right" timing="0" />
+	</transitions>
+</level> 

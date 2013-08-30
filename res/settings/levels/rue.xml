@@ -1,0 +1,19 @@
+<level map="thorez.tmx" sound="route_1.ogg">
+	<characters>
+		<character>
+			<position x="300" y="400" />
+			<movement src="fourras.xml" dir="down" />
+		</character>
+		<character>
+			<position x="400" y="400" />
+			<movement src="meubles.xml" dir="down" />
+		</character>
+	</characters>
+	<transitions>
+		<transition originx="0" originY="13" to="start" 
+			remotex="19" remotey="16" direction="right" timing="0" />
+		<transition originx="13" originY="13" to="rue" event="cube" 
+			remotex="14" remotey="13" direction="right" timing="0" />			
+	</transitions>
+	<win x="89" y="9" />
+</level> 

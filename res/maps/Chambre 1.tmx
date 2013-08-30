@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="6" height="6" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Chambre - Réveil 1" tilewidth="32" tileheight="32">
+  <image source="../images/levels/room_1.png" width="192" height="192"/>
+ </tileset>
+ <layer name="collision" width="6" height="6">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NkYGBgJAHDADY+NkCqOADTHOQ/kAAAAA==
+  </data>
+ </layer>
+ <layer name="action" width="6" height="6">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGFwAAJwFCnCQAAAA
+  </data>
+ </layer>
+ <layer name="carte" width="6" height="6">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACw3DiRJCUAAAwCeUKHKkJEfx/99od2ajEMLJ2MTUsxczr+YW3rxbWvmwtrG182nvy7eDH0e/Ts4urv78u7l7AIk6fXGQAAAA
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,8 @@
+<level map="start.tmx" sound="route_1.ogg">
+	<transitions>
+		<transition originx="2" originY="12" to="groundfloor"
+			remotex="6" remotey="2" direction="up" timing="0" />
+		<transition originx="20" originY="16" to="rue" event="train"
+			remotex="1" remotey="13" direction="right" timing="0" />
+	</transitions>
+</level> 

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="22" height="20" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Map debut" tilewidth="32" tileheight="32">
+  <image source="../images/levels/tileset_start.png" width="416" height="416"/>
+ </tileset>
+ <tileset firstgid="170" name="TilesSet_ESIEA_TREK" tilewidth="32" tileheight="32">
+  <image source="../images/levels/tileset2.png" width="320" height="1200"/>
+ </tileset>
+ <tileset firstgid="540" name="TilesSet V2" tilewidth="32" tileheight="32">
+  <image source="../images/levels/tileset_map.png" width="320" height="2000"/>
+ </tileset>
+ <layer name="collision" width="22" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFIMA2ikfxKMaJGWhgHjoYzOZSIxzYiXTvKKAeAACqJQZu
+  </data>
+ </layer>
+ <layer name="carte" width="22" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt0jczRFEYxvGzezHSopG2wO5isbvyCl+BT4BSLMVSrGSVrJK1UiVVUiVVUiVVUiUV/ndcs4sNd8zo3JnfvO/cPeedc567Qvw/8hOr/SkeCS6qq7XuzGMBi1jCMlKR5qIaYPzGhADOF4ggBEOHFd6vYg3r2EAe8l1UC6zf2BDBnEjE0UdT9dik38I2drDrIQd3c03CsSaR3ow9+n0c4BBHHnJwN7dAONb4K+c+xglOcYbzX+QQ57QmXHzkckF/iStc40ZlDjmKXOW8hco5jeIjl1v6O9zjAY8qcpDPaFDmlFLLUI4iFKMET/z2jBe84k1FDjanO1Qzowa1qEAlqqCVhJDgA1/4Sd5zsDndoZEZTWhGHerRIP+PmaNDCEIRJqnL4fMOnczoQjda0Io2+dsxJxJRiIZecp+D3elbtbO3Q3yd24Ne9MnZM8cAI0xyBkr1pp+9AxjEEIYxglGMIYU1FlhhkzNQqjfj7J3AJKYwjRnMYg6JkjpmjWdJSEYKLEiX1MnQeJaJLGTDjhjt33gHbYRpiw==
+  </data>
+ </layer>
+</map>

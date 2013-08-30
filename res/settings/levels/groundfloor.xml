@@ -1,0 +1,8 @@
+<level map="groundfloor.tmx" sound="casino.ogg">
+	<transitions>
+		<transition originx="0" originY="2" to="floor_1" event="cube"
+			remotex="1" remotey="3" direction="right" timing="0" />
+		<transition originx="6" originY="3" to="start" 
+			remotex="2" remotey="13" direction="down" timing="0" />
+	</transitions>
+</level> 

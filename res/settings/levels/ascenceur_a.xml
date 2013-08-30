@@ -1,0 +1,8 @@
+<level map="Ascenceur A.tmx" sound="">
+	<transitions>
+		<transition originx="1" originY="3" to="rue" 
+			remotex="4" remotey="13" direction="down" timing="5000" />
+		<transition originx="2" originY="3" to="rue" 
+			remotex="4" remotey="13" direction="down" timing="5000" />
+	</transitions>
+</level>

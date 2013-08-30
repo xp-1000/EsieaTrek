@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="8" height="4" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Etages " tilewidth="32" tileheight="32">
+  <image source="../images/levels/floors.png" width="256" height="896"/>
+ </tileset>
+ <layer name="collision" width="8" height="4">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACxNiYGAQQsLCaDQuzIBEkwqQ9QMAlZB9TIAAAAA=
+  </data>
+ </layer>
+ <layer name="carte" width="8" height="4" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACw3DhxGCQAAAsN9/K4p06V0RRyG5SxRCiE1MfZmZW1haWdv4trWzd3B0cnZxdXP38PTj18uft38f2APxkIAAAAA=
+  </data>
+ </layer>
+</map>

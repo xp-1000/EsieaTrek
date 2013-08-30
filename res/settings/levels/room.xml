@@ -1,0 +1,6 @@
+<level map="room.tmx" sound="reveil.ogg">
+	<transitions>
+		<transition originx="4" originY="5" to="floor_4" remotex="3"
+			remotey="1" direction="down" timing="1" />
+	</transitions>
+</level> 
